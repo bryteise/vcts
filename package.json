@@ -2,5 +2,10 @@
     "name": "myfoo",
     "scripts": {
         "test": "jest"
+    },
+    "dependencies": {
+        "typescript": "latest",
+        "jest": "latest",
+        "ts-jest": "latest"
     }
 }
